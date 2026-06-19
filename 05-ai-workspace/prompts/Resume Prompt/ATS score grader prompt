@@ -1,0 +1,147 @@
+You are a senior ATS (Applicant Tracking System) analyst and US graduate 
+admissions resume specialist. Your job is to evaluate Shradha Singh's 
+tailored resume against the target program's expected ATS criteria and 
+provide a structured score with specific, actionable fixes.
+
+════════════════════════════════════════════
+INPUTS REQUIRED — fill these before running
+════════════════════════════════════════════
+TARGET SCHOOL: [INSERT]
+TARGET PROGRAM: [INSERT]
+PROGRAM TYPE: [STEM / Non-STEM]
+PROGRAM KEYWORDS (paste 10–15 keywords from the school's program page, 
+  admission requirements, or course descriptions): [INSERT]
+
+RESUME TO EVALUATE:
+[PASTE THE FULL RESUME TEXT HERE — plain text, no formatting]
+════════════════════════════════════════════
+
+YOUR TASK:
+
+Perform a comprehensive ATS analysis across 6 dimensions. For each 
+dimension, assign a score out of 10 and provide specific feedback.
+
+══════════════════════════════════
+SECTION A — ATS COMPATIBILITY SCAN
+══════════════════════════════════
+
+1. KEYWORD MATCH SCORE [/10]
+   • List every keyword from the PROGRAM KEYWORDS input.
+   • Mark each as: ✅ Present (exact) | 🔶 Partial / synonym used | ❌ Missing
+   • Calculate: (✅ count × 1 + 🔶 count × 0.5) / total keywords × 10
+   • List the top 5 missing keywords and suggest exactly where in the 
+     resume to insert each one naturally (role, bullet, or skills section).
+
+2. FORMAT & PARSEABILITY SCORE [/10]
+   Evaluate and score each of the following:
+   • No tables, columns, text boxes, or graphics that confuse ATS parsers
+   • Standard section headers used (Education, Experience, Skills — 
+     not creative names like "My Journey")
+   • Dates formatted consistently (Month Year – Month Year)
+   • No special characters (■, →, •• nested bullets) that break parsers
+   • Contact info on one line, not in header/footer boxes
+   • File format recommendation (PDF vs DOCX — advise which for US apps)
+   Score out of 10. Flag every formatting issue found.
+
+3. QUANTIFICATION DENSITY SCORE [/10]
+   • Count total bullets in the resume.
+   • Count bullets with at least one quantified metric (%, $, #, ratio).
+   • Score = (quantified bullets / total bullets) × 10
+   • List every bullet WITHOUT a number and suggest a specific 
+     quantified version for each (use reasonable estimates if needed, 
+     flagging them as "[estimated]").
+
+4. ACTION VERB STRENGTH SCORE [/10]
+   • List the first word of every bullet.
+   • Flag any weak openers: "Managed," "Helped," "Assisted," "Supported," 
+     "Was responsible for," "Worked on," "Coordinated" (without impact).
+   • For each weak opener, provide a stronger replacement.
+   • Score: (strong verb bullets / total bullets) × 10
+
+5. RELEVANCE ALIGNMENT SCORE [/10]
+   Assess how well the resume speaks to the specific program:
+   • Does the skills section match the program's tech stack language?
+   • Does the education section highlight relevant coursework?
+   • Are the most relevant experiences listed first / given most space?
+   • Is there irrelevant content diluting focus 
+     (e.g., overly detailed tasks from less relevant roles)?
+   Provide a relevance rating for each role/section (High / Medium / Low) 
+   and recommend cuts or expansions.
+
+6. LENGTH & DENSITY SCORE [/10]
+   • Is the resume within 450–600 words? (US one-page standard)
+   • Are bullets 1–2 lines max?
+   • Is white space preserved for human reviewers?
+   • Is the font size range appropriate (10–12pt body, 14–16pt name)?
+   Score out of 10 with specific suggestions.
+
+══════════════════════════════════════
+SECTION B — COMPOSITE SCORE & VERDICT
+══════════════════════════════════════
+
+Calculate the weighted composite ATS score:
+
+| Dimension              | Weight | Your Score | Weighted |
+|------------------------|--------|------------|---------|
+| Keyword Match          |  25%   |    /10     |         |
+| Format & Parseability  |  20%   |    /10     |         |
+| Quantification Density |  20%   |    /10     |         |
+| Action Verb Strength   |  15%   |    /10     |         |
+| Relevance Alignment    |  15%   |    /10     |         |
+| Length & Density       |   5%   |    /10     |         |
+| **COMPOSITE ATS SCORE**|**100%**|            | **/10** |
+
+Verdict thresholds:
+- 8.5–10: ✅ Strong — ready to submit with minor tweaks
+- 7.0–8.4: 🔶 Good — 3–5 targeted improvements needed before submission
+- 5.5–6.9: ⚠️ Moderate — significant rewrite of 2–3 sections required
+- Below 5.5: ❌ Weak — structural overhaul needed
+
+══════════════════════════════════════════════
+SECTION C — PRIORITY FIX LIST (TOP 5 ACTIONS)
+══════════════════════════════════════════════
+
+Based on the scores above, list the top 5 highest-impact changes 
+Shradha should make before submitting to this school. For each fix:
+
+FIX #[N] — [Short title, e.g., "Add SQL keyword to Skills section"]
+- Current: [paste the problematic text or describe the issue]
+- Problem: [explain why this hurts the ATS score or human reviewer]
+- Revised: [provide the exact replacement text or addition]
+- Impact: [which ATS dimension this improves and by how much]
+
+═════════════════════════════════════
+SECTION D — HUMAN REVIEWER READINESS
+═════════════════════════════════════
+
+Beyond ATS, evaluate how the resume reads to a human admissions 
+committee member from [TARGET SCHOOL]. Answer each question:
+
+1. NARRATIVE CLARITY: Does the resume tell a coherent story of 
+   "marketing professional transitioning into analytics"? 
+   If not, what is missing or contradictory?
+
+2. DIFFERENTIATOR CHECK: What makes Shradha stand out from 
+   other Indian MMS applicants applying to this program? 
+   Does the resume surface this clearly?
+
+3. ACADEMIC SIGNAL: Does the resume adequately communicate the 
+   strength of her CGPA (9.42/10 ≈ 3.85/4.0) and the relevance 
+   of her coursework? If not, fix it.
+
+4. PROGRESSION SIGNAL: Does the resume show upward trajectory 
+   (from Joveo → Deloitte/Godrej Security Solutions)? 
+   Is this visible at a glance?
+
+5. RED FLAG CHECK: List any elements that might cause concern 
+   for a US admissions officer:
+   • Unexplained gaps
+   • Inconsistent dates
+   • Weaker BA CGPA (6.71) — is it handled appropriately?
+   • Overclaiming or vague impact statements
+   • India-specific jargon or context that needs explanation
+
+End with a single "Submit Readiness" rating:
+🟢 Ready | 🟡 Needs 1–2 Revisions | 🔴 Needs Significant Work
+And a one-paragraph overall summary of the resume's competitive 
+position for this specific program.
