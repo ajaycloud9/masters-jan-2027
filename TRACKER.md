@@ -9,10 +9,10 @@
 
 | School | Program | Deadline | Round | Portal Created | SOP | LOR 1 | LOR 2 | Submitted | Decision | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| NYU SPS | MS Mgmt & Analytics | TBD | — | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | STEM, high analytics |
-| Rochester (Simon) | MS Marketing Analytics | TBD | — | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Excellent fit, STEM |
-| Rutgers | MS Mktg Analytics & Insights | TBD | — | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Excellent fit, STEM |
-| CUNY Baruch | MS Marketing | TBD | — | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Safety, non-STEM |
+| NYU SPS | MS Mgmt & Analytics | 1st Aug 2026 | — | ✅  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | STEM, high analytics |
+| Rochester (Simon) | MS Marketing Analytics | TBD | — | ✅  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Excellent fit, STEM |
+| Rutgers | MS Mktg Analytics & Insights | TBD | — | ✅  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Excellent fit, STEM |
+| CUNY Baruch | MS Marketing | TBD | — | ✅  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Safety, non-STEM |
 
 ### Status Key
 | Symbol | Meaning |
@@ -30,7 +30,7 @@
 | Document | Version | Status | Notes |
 |---|---|---|---|
 | Resume (generic) | v1 | 🟡 | In `01-profile/resume/` |
-| Resume (NYU tailored) | — | ⬜ | |
+| Resume (NYU tailored) | v1 | 🟡 | |
 | Resume (Rochester tailored) | — | ⬜ | |
 | Resume (Rutgers tailored) | — | ⬜ | |
 | Resume (CUNY tailored) | — | ⬜ | |
@@ -39,9 +39,9 @@
 | SOP Rochester | — | ⬜ | |
 | SOP Rutgers | — | ⬜ | |
 | SOP CUNY | — | ⬜ | |
-| LOR — Recommender 1 | — | ⬜ | |
+| LOR — Recommender 1 | v1 | 🟡 | |
 | LOR — Recommender 2 | — | ⬜ | |
-| Transcripts (official) | — | ⬜ | Need apostille / WES evaluation |
+| Transcripts (official) | - | 🟡 | Need apostille / WES evaluation |
 | GRE/GMAT Score Report | — | ⬜ | Decision pending |
 | English Proficiency (IELTS/TOEFL) | — | ⬜ | |
 
