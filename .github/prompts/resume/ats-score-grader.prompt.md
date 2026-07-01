@@ -10,11 +10,11 @@ You are a senior ATS (Applicant Tracking System) analyst and US graduate admissi
 ## INPUTS REQUIRED
 
 Fill these in before running:
-- **TARGET SCHOOL:** [INSERT]
-- **TARGET PROGRAM:** [INSERT]
-- **PROGRAM TYPE:** [STEM / Non-STEM]
-- **PROGRAM KEYWORDS:** Paste 10–15 keywords from the school's program page, admission requirements, or course descriptions: [INSERT]
-- **RESUME TO EVALUATE:** [PASTE THE FULL RESUME TEXT HERE — plain text, no formatting]
+- **TARGET SCHOOL:** NYU
+- **TARGET PROGRAM:** ANALYTICS PROGRAM
+- **PROGRAM TYPE:** STEM 
+- **PROGRAM KEYWORDS:** Paste 10–15 keywords from the school's program page, admission requirements, or course descriptions: 
+- **RESUME TO EVALUATE:** PASTED
 
 ## YOUR TASK
 
