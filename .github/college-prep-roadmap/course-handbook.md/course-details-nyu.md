@@ -35,25 +35,25 @@ The MS in Management and Analytics (MSMA) is a 36-credit, 12-course, STEM-design
 
 The tuition figure matters for your planning: your existing school-comparison notes estimate about $60,000 for NYU SPS, which is well below the official per-credit rate.
 
-### Complete course list (2026–27 bulletin)
+### Complete course list (2026–27 bulletin) — ordered by foundational prerequisite dependency
 
 | Block | Code | Course | Credits | Prerequisites (official) |
 | --- | --- | --- | --- | --- |
 | Management core | MASY1-GC 1015 | Quantitative Methods for Business Analysis | 3 | None listed |
-| Management core | MASY1-GC 1115 | Management Skills for Technology Professionals | 3 | None listed |
-| Management core | MASY1-GC 1215 | Data-Driven Decision-Making | 3 | 1015 and 1500 |
-| Management core | MASY1-GC 1315 | Managing Change and Innovation | 3 | 1600 |
 | Technical core | MASY1-GC 1500 | Database Management | 3 | None listed |
 | Technical core | MASY1-GC 1600 | Managing Technical Projects | 3 | None listed |
+| Management core | MASY1-GC 1115 | Management Skills for Technology Professionals | 3 | None listed |
 | Technical core | MASY1-GC 1700 | Organizational Risk Management and Information Security | 3 | None listed |
-| Technical core | MASY1-GC 1800 | Emerging Technologies | 3 | 1015 and 1315 |
+| Management core | MASY1-GC 1215 | Data-Driven Decision-Making | 3 | 1015 and 1500 |
+| Management core | MASY1-GC 1315 | Managing Change and Innovation | 3 | 1600 |
 | Business Analytics conc. | MASY1-GC 2000 | Foundations of Business Analytics | 3 | 1015 and 1500 |
-| Business Analytics conc. | MASY1-GC 2100 | Advanced Business Analytics | 3 | 2000 |
 | Risk Analytics conc. | MASY1-GC 2200 | Foundations of Risk Analytics | 3 | 1500 |
-| Risk Analytics conc. | MASY1-GC 2300 | Advanced Risk Analytics | 3 | 2200 |
 | Business Informatics conc. | MASY1-GC 2400 | Foundations of Business Informatics | 3 | 1015 and 1600 |
-| Business Informatics conc. | MASY1-GC 2500 | Advanced Business Informatics | 3 | 2400 |
 | Applied Research conc. | MASY1-GC 2600 | Research Process and Methods | 3 | 1015 and 1600 |
+| Technical core | MASY1-GC 1800 | Emerging Technologies | 3 | 1015 and 1315 |
+| Business Analytics conc. | MASY1-GC 2100 | Advanced Business Analytics | 3 | 2000 |
+| Risk Analytics conc. | MASY1-GC 2300 | Advanced Risk Analytics | 3 | 2200 |
+| Business Informatics conc. | MASY1-GC 2500 | Advanced Business Informatics | 3 | 2400 |
 | Applied Research conc. | MASY1-GC 2700 | Applied Research Thesis | 3 | 2600 |
 | Elective (pick 1) | MASY1-GC 3030 | Syntax Language Programming | 3 | None listed; assumes some Python/R |
 | Elective (pick 1) | MASY1-GC 3100 | Application-Based Programming | 3 | None listed |
