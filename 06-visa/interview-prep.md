@@ -19,7 +19,7 @@
 
 ### Why This Program?
 - MS in [PROGRAM] at [SCHOOL] is a STEM-designated program not available at this depth in India
-- Builds on MMS Marketing (India) with the analytical and data science skills the global market demands
+- Builds on MMS in Marketing (India) with the analytical and data science skills the global market demands
 - Specific career goal: Marketing Analyst / Consumer Insights role at a US company, gain 2–3 years experience through OPT, then return to India with global expertise
 
 ### Ties to India

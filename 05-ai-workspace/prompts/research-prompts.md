@@ -10,7 +10,7 @@
 ```
 Analyze the [PROGRAM NAME] at [UNIVERSITY NAME] for a candidate with this profile:
 
-Background: MMS Marketing (India, 9.4 CGPA), Brand Manager (1 year), 5 marketing internships including Deloitte and Godrej, sociology/anthropology BA
+Background: MMS in Marketing (India, 9.4 CGPA), Brand Manager (1 year), 5 marketing internships including Deloitte and Godrej, sociology/anthropology BA
 Skill gaps: SQL, Python, statistics
 Career goal: Marketing Analyst or Consumer Insights Analyst in US tech or CPG
 
@@ -41,7 +41,7 @@ Compare these two programs for a marketing professional transitioning to analyti
 Program A: MS in Marketing Analytics, Simon Business School (Rochester)
 Program B: MS in Marketing Analytics and Insights, Rutgers Business School
 
-Candidate profile: Indian national, MMS Marketing, brand management background, targeting marketing analyst roles in NYC/US
+Candidate profile: Indian national, MMS in Marketing, brand management background, targeting marketing analyst roles in NYC/US
 
 Compare on:
 1. Curriculum rigor and analytics depth

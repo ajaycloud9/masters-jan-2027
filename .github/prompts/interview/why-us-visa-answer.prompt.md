@@ -8,7 +8,7 @@ description: "Use when: crafting the F-1 visa answer to \"Why US?\". Creates a 4
 Help me craft a convincing, honest F-1 visa answer to: **"Why do you want to study in the United States and not India?"**
 
 **My situation:**
-- Completed MMS Marketing in India (SIMSREE, 9.4 CGPA)
+- Completed MMS in Marketing in India (SIMSREE, 9.4 CGPA)
 - Target: MS in Marketing Analytics (Rochester/Rutgers/NYU)
 - These specific programs don't exist in India at this level
 - Goal: Gain US work experience through OPT then return to India to apply global knowledge

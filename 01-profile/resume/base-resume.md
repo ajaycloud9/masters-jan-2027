@@ -7,7 +7,7 @@ Mumbai, India | +91 9967272466 | shraddhasingh69920@gmail.com | LinkedIn
 # EDUCATION
 
 ## SIMSREE College, Homi Bhabha State University
-**Master of Management Studies (MMS)**  
+**Master of Management Studies (MMS) in Marketing**  
 Aug 2024 – May 2026
 
 **Relevant Coursework:** Marketing Management, Business Research Methods, Consumer Behaviour, Business Analytics, Statistics for Management, Digital Marketing

@@ -15,7 +15,7 @@
 |10th CBSE|77%|
 |12th St. Xavier's Mumbai|70%|
 |BA Sociology&Anthropology (St. Xavier's)|| 6.71 CGPA|
-|MMSMarketing(SIMSREE)|9.4CGPA|
+|MMSinMarketing(SIMSREE)|9.4CGPA|
 
 
 

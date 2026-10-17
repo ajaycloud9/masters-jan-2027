@@ -7,7 +7,7 @@ description: "Use when: preparing for admissions interviews. Generates 15 common
 
 Generate the 15 most common admissions interview questions for an MS in Marketing Analytics / Management Analytics program at a US business school.
 
-**Candidate profile:** Indian national, MMS Marketing India (9.4 CGPA), brand manager background, transitioning to analytics
+**Candidate profile:** Indian national, MMS in Marketing India (9.4 CGPA), brand manager background, transitioning to analytics
 
 **For each question, provide:**
 1. The question

@@ -40,4 +40,4 @@
 ## Concerns / Weaknesses
 - **Non-STEM = 1-year OPT only** — major disadvantage for staying in the US
 - Lower analytics/tech depth than other options
-- Overlaps heavily with existing MMS Marketing experience
+- Overlaps heavily with existing MMS in Marketing experience

@@ -21,7 +21,7 @@ Change this per school:
 ## CANDIDATE BACKGROUND (DO NOT ALTER)
 
 **ACADEMICS:**
-- MMS (Marketing), SIMSREE Mumbai | CGPA: 9.42/10 | Aug 2024 – May 2026
+- MMS in Marketing, SIMSREE Mumbai | CGPA: 9.42/10 | Aug 2024 – May 2026
 - BA (Sociology & Anthropology), St. Xavier's College | CGPA: 6.71/10 | 2020–2023
 
 **WORK EXPERIENCE:**

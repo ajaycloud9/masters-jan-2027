@@ -6,7 +6,7 @@ Mumbai, India • +91 9967272466 • shraddhasingh69920@gmail.com • [linkedin.
 
 ## EDUCATION
 
-**Master of Management Studies (MMS) — Marketing & Business Analytics**
+**Master of Management Studies (MMS) in Marketing**
 *SIMSREE, Dr. Homi Bhabha State University, Mumbai | CGPA: 9.42/10*
 Aug 2024 – May 2026
 

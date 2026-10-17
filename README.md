@@ -4,7 +4,7 @@
 A structured, AI-assisted research and execution workspace to secure admission into a top US Master's program starting **January 2027**, applied from India, with full alignment to long-term career goals and F-1 visa readiness.
 
 ## Candidate
-**Shradha Singh** — MMS Marketing, SIMSREE (9.4 CGPA)  
+**Shradha Singh** — MMS in Marketing, SIMSREE (9.4 CGPA)  
 Background: Brand management, digital marketing, market research  
 Goal: Transition into data-driven / analytics-integrated marketing roles in the US
 
@@ -21,6 +21,7 @@ Goal: Transition into data-driven / analytics-integrated marketing roles in the 
 | 5 | `05-ai-workspace/` | AI prompts, research outputs, analysis templates | ⬜ Not Started |
 | 6 | `06-visa/` | F-1 interview prep, documents checklist, financial proof | ⬜ Not Started |
 | 7 | `07-financial/` | Tuition + living cost comparison, scholarships, funding | ⬜ Not Started |
+| 9 | `09-nyu-prep/` | Post-admit NYU prep: program handbook, faculty and alumni, internship roadmap, skill prep | 🟡 In Progress |
 
 ---
 

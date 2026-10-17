@@ -8,7 +8,7 @@ description: "Use when: analyzing a specific graduate program for fit and compet
 Analyze the **[PROGRAM NAME]** at **[UNIVERSITY NAME]** for a candidate with this profile:
 
 **Background:**
-- MMS Marketing (India, 9.4 CGPA), Brand Manager (1 year), 5 marketing internships including Deloitte and Godrej
+- MMS in Marketing (India, 9.4 CGPA), Brand Manager (1 year), 5 marketing internships including Deloitte and Godrej
 - BA Sociology/Anthropology
 - Skill gaps: SQL, Python, statistics
 - Career goal: Marketing Analyst or Consumer Insights Analyst in US tech or CPG

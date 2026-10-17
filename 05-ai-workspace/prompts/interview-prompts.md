@@ -8,7 +8,7 @@
 ```
 Generate the 15 most common admissions interview questions for an MS in Marketing Analytics / Management Analytics program at a US business school.
 
-Candidate profile: Indian national, MMS Marketing India (9.4 CGPA), brand manager background, transitioning to analytics
+Candidate profile: Indian national, MMS in Marketing India (9.4 CGPA), brand manager background, transitioning to analytics
 
 For each question, provide:
 1. The question
@@ -78,7 +78,7 @@ Evaluate:
 Help me craft a convincing, honest F-1 visa answer to: "Why do you want to study in the United States and not India?"
 
 My situation:
-- Completed MMS Marketing in India (SIMSREE, 9.4 CGPA)
+- Completed MMS in Marketing in India (SIMSREE, 9.4 CGPA)
 - Target: MS in Marketing Analytics (Rochester/Rutgers/NYU)
 - These specific programs don't exist in India at this level
 - Goal: Gain US work experience through OPT then return to India to apply global knowledge

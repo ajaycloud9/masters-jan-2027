@@ -6,7 +6,7 @@
 
 ## 🎯 Core Context
 
-- **Candidate**: Shradha Singh (MMS Marketing, SIMSREE; CGPA 9.4)
+- **Candidate**: Shradha Singh (MMS in Marketing, SIMSREE; CGPA 9.4)
 - **Goal**: Transition to data-driven / analytics-integrated marketing roles in the US
 - **Target Programs**: MS in Marketing Analytics, MS Management & Analytics
 - **Timeline**: Apply Oct–Nov 2026 → Admit Dec 2026 → Visa Jan 2027 → Start Jan 2027
@@ -25,6 +25,7 @@
 | 5. AI Workspace | `05-ai-workspace/` | Not Started |
 | 6. Visa Prep | `06-visa/` | Not Started |
 | 7. Financial | `07-financial/` | Not Started |
+| 9. NYU prep | `09-nyu-prep/` | In Progress |
 
 ---
 
